@@ -13,7 +13,8 @@ Repositório para armasenar resumos sobre Git e Github do curso Versionamento de
 | Aulas | Resumos |
 |-------|---------|
 | Gravando Alterações no Repositório Local |
-
+[Aula 01](Resumos)
+[Aula 02](Resumos)
 ```
 git Innovavation
 ```
